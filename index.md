@@ -17,8 +17,6 @@ Syntax highlighted code block
 - The teachers are awesome
 
 
-**Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
 ```
 
